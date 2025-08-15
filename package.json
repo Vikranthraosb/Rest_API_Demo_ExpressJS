@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
     "url": "https://github.com/Vikranthraosb/Rest_API_Demo_ExpressJS/issues"
   },
   "homepage": "https://github.com/Vikranthraosb/Rest_API_Demo_ExpressJS#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
 }

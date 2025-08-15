@@ -1,0 +1,19 @@
+{
+  "name": "rest-api-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vikranthraosb/Rest_API_Demo_ExpressJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vikranthraosb/Rest_API_Demo_ExpressJS/issues"
+  },
+  "homepage": "https://github.com/Vikranthraosb/Rest_API_Demo_ExpressJS#readme",
+  "description": ""
+}

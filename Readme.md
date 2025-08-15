@@ -1,4 +1,4 @@
-# REST API Learning
+# REST API BASICS USING NODE.JS.
 
 ## Some examples of HTTP methods
 
@@ -16,14 +16,10 @@ On the same page, we can send different data for the same HTTP method for best p
 * **PATCH /api/users/:id** - Edit the user with specific ID  
 * **DELETE /api/users/:id** - Delete the user with specific ID
 
-# REST API Demo
-
-A simple REST API demo built with Node.js and Express, showcasing basic CRUD operations.  
-Perfect for beginners to understand API fundamentals.
-
 ## 📜 Code
 
 ```javascript
+
 require('dotenv').config();
 
 const users = require("./MOCK_DATA.json");
